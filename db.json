@@ -1,0 +1,33 @@
+{
+    "carros": [
+        {
+          "id": 1,
+          "placa": "xxx-xxxx",
+          "marca": "hello",
+          "nome": "Fusca",
+          "ano": "2007"
+           
+        },
+        {
+            "id": 2,
+            "placa": "xxx-xxxx",
+            "marca": "hello",
+            "nome": "Fusca",
+            "ano": "2007"
+             
+          },
+          {
+            "id": 3,
+            "placa": "xxx-xxxx",
+            "marca": "hello",
+            "nome": "Fusca",
+            "ano": "2007"
+             
+          }
+    
+      ],
+      "perfil": {
+        "nome": "joao",
+        "sobrenome": "lopes"
+      }
+}
