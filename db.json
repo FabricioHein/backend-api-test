@@ -5,7 +5,8 @@
           "placa": "xxx-xxxx",
           "marca": "hello",
           "nome": "Fusca",
-          "ano": "2007"
+          "ano": "2007",
+          "url_imag": "https://image1.mobiauto.com.br/images/api/images/v1.0/url/transform/cw_720?hash=c30a39594ff31eb01ce286db2fe5c9e7c024bba408947acea35e1738709ffbb7e4677cbe98bc59fe14c2fd15bfb399e234980381940a22d9fe59ad83aea6e053&url=https%3A%2F%2Fs3.sa-east-1.amazonaws.com%2Frevista.mobiauto%2FVolkswagen%2FFusca%2FVocho%2FVW%2BVocho%252C%2Bo%2BFusca%2Bmexicano%252C%2Bcom%2Bmassa%2Bnos%2Bpara-lamas%2Bno%2BM%25C3%25A9xico.jpg"
            
         },
         {
@@ -13,7 +14,8 @@
             "placa": "xxx-xxxx",
             "marca": "hello",
             "nome": "Fusca",
-            "ano": "2007"
+            "ano": "2007",
+            "url_imag": "https://image1.mobiauto.com.br/images/api/images/v1.0/url/transform/cw_720?hash=c30a39594ff31eb01ce286db2fe5c9e7c024bba408947acea35e1738709ffbb7e4677cbe98bc59fe14c2fd15bfb399e234980381940a22d9fe59ad83aea6e053&url=https%3A%2F%2Fs3.sa-east-1.amazonaws.com%2Frevista.mobiauto%2FVolkswagen%2FFusca%2FVocho%2FVW%2BVocho%252C%2Bo%2BFusca%2Bmexicano%252C%2Bcom%2Bmassa%2Bnos%2Bpara-lamas%2Bno%2BM%25C3%25A9xico.jpg"
              
           },
           {
@@ -21,7 +23,8 @@
             "placa": "xxx-xxxx",
             "marca": "hello",
             "nome": "Fusca",
-            "ano": "2007"
+            "ano": "2007",
+            "url_imag": "https://image1.mobiauto.com.br/images/api/images/v1.0/url/transform/cw_720?hash=c30a39594ff31eb01ce286db2fe5c9e7c024bba408947acea35e1738709ffbb7e4677cbe98bc59fe14c2fd15bfb399e234980381940a22d9fe59ad83aea6e053&url=https%3A%2F%2Fs3.sa-east-1.amazonaws.com%2Frevista.mobiauto%2FVolkswagen%2FFusca%2FVocho%2FVW%2BVocho%252C%2Bo%2BFusca%2Bmexicano%252C%2Bcom%2Bmassa%2Bnos%2Bpara-lamas%2Bno%2BM%25C3%25A9xico.jpg"
              
           }
     
